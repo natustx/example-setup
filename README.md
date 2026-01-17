@@ -1,6 +1,6 @@
 # Example Setup
 
-A project configured with Claude Code skills for frontend development and testing.
+A project configured with a few Claude Code skills and example CLAUDE.md file just to illustrate a few things you can do.
 
 ## Claude Code Best Practices
 
